@@ -1,8 +1,11 @@
 ./miTest/AppTest.java
+./miPrincipal/Agenda.java
+./miPrincipal/Contacto.java
 ./miPrincipal/Principal.java
 ./miPrincipal/ListaOrdenada.java
 ./miPrincipal/ListaEnlazada.java
 ./miPrincipal/Pilas.java
 ./miPrincipal/ColaDinamica.java
 ./miPrincipal/ColaSencilla.java
+./miPrincipal/EvaluacionU2.java
 ./miPrincipal/RecursividadDirecta.java
